@@ -1,0 +1,100 @@
+{
+    "en": {
+        "welcome": "Enable Text-To-Speech ?",
+
+        "levelText0": "The smallest component of an element, which is a basic category of matter, is an atom.",
+        "levelText1": "The amount of protons an element has is equal to its atomic number.",
+        "levelText2": "Protons, neutrons, and electrons are subatomic particles that make up atoms.",
+        "levelText3": "Atomic mass is the measurement of the mass of an element's atoms.",
+
+        "levelText4": "Protons and neutrons are located in the nucleus of an atom.",
+        "levelText5": "Protons have a positive charge and electrons have a negative charge.",
+        "levelText6": "Electrons orbit the nucleus of an atom in an electron cloud.",
+        "levelText7": "Noble gases and native elements are made of a single type of atom.",
+        "levelText8": "An atom can also have a charge. If an atom has a charge of 1+, it means it has 1 less electron",
+        "levelText9": "If an atom has a charge of 1-, it means it has 1 extra electron",
+
+        "instruction1": "Tap any button.",
+
+        "qwest_0": "What is the value of proton in the periodic notation.",
+        "qwest_1": "What is the value of neutron in the periodic notation.",
+        "qwest_2": "What is the value of electron in the periodic notation.",
+        "qwest_3": "What is the Atomic mass of the periodic notation.",
+
+        "qwest_4": "What is the value of proton in the periodic notation.",
+        "qwest_5": "What is the value of electron in the periodic notation.",
+        "qwest_6": "What is the Atomic mass in the periodic notation.",
+        "qwest_7": "What is the value of neutron in the periodic notation.",
+
+        "qwest_8": "What is the value of electron in the periodic notation.",
+        "qwest_9": "What is the value of electron in the periodic notation.",
+        "qwest_10": "What is the value of electron of the periodic notation.",
+        "qwest_11": "What is the value of electron in the periodic notation.",
+
+
+        "help": "The atomic number is equal to protons, electrons are equal to protons, and neutrons are equal to atomic mass less protons.",
+        "help2": "The periodic notation above has this amount of proton, neutron and electron.",
+        "flymission": "Get to the Station.",
+        "game1": "Collect All the diamonds. So we can create a proton orb.",
+        "game2": "Collect All the diamonds. So we can create a neutron orb.",
+        "game3": "Collect All the diamonds. So we can create a electron orb.",
+        "todo1": "Get to the Computer",
+        "todo2": "The Portal is open",
+        "todo3": "Atom Successfully Created.",
+
+        "sample1": "The atomic number is equal to protons, electrons are equal to protons, and neutrons are equal to atomic mass less protons.",
+        "sample2": "Electrons will be equal to protons plus the charge if there is a negative charge, but protons minus the charge if there is a positive charge.",
+
+
+        "next": "",
+
+        "topic_0": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_1": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_2": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_3": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_4": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_5": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_6": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_7": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+        "topic_8": "The substructure of atoms determines how they combine and rearrange to form all of the world’s substances.",
+
+
+
+        "howToPlay": "This game is very easy to play. You're first introduced to a drag and drop game, Then a runner game where you dodge obstacles and hit the right boxes.",
+
+        "meek": "Choose elements that correspond to the periodic notation.",
+
+        "autoSave": "...Auto Saving Complete",
+
+        "pop1": "Making Proton Orb....",
+        "pop2": "Making Neutron Orb....",
+        "pop3": "Making Electron Orb....",
+        "pop4": "Building Planet....",
+
+        "ward1": "Proton Created Successfully.",
+        "ward2": "Neutron Created Successfully.",
+        "ward3": "Electron Created Successfully.",
+        "ward4": "Thank You For Playing.",
+
+
+        "dop1": "Proton, stable subatomic particle that has a positive charge equal in magnitude to a unit of electron charge.",
+        "dop2": "Neutron, neutral subatomic particle that is a constituent of every atomic nucleus except ordinary hydrogen.",
+        "dop3": "An electron is a negatively charged subatomic particle. It can be either free (not attached to any atom), or bound to the nucleus of an atom",
+
+
+        "story1": "Our galaxy was peaceful, and our earth was habitable.",
+        "story3": "You have been chosen to build a planet by creating an artificial atom. Good Luck!",
+        "story2": "Asteroids from a distant galaxy slammed into our universe, unleashing destruction.",
+        "story4": "Great Work, You and Atomic boy have successfully created a new earth from the atom. Thank you for Playing..",
+
+        "desc_1": "Use the computer on your left to unlock the doors.",
+        "desc_2": "You will travel to proton, neutron and electron planets using the portals. GoodLuck",
+        "desc_3": "Unlock them using the computer device by your left. Goodluck! Explorer. ",
+        "desc_4": "You have a proton orb. Put it in the atom machine on the right.",
+        "desc_5": "Well Done! You possess a neutron orb. You are quite skilled at this.",
+        "desc_6": "You possess an electron orb. Superb!"
+
+    }
+}
+
+
