@@ -5,7 +5,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Legends of Learning | Astro</title>
     <link rel="stylesheet" href="https://game-cdn.legendsoflearning.com/assets/lol.css" />
-    <script src="https://game-cdn.legendsoflearning.com/assets/lol.js"></script>
+    <script>
+      window.LOLSDK = {
+        init: function() { console.log("LoL SDK Mock Initialized"); },
+        gameIsReady: function() { console.log("Game is Ready"); },
+        submitAnswer: function(ans) { console.log("Answer Submitted:", ans); },
+        completeGame: function() { console.log("Game Completed"); },
+        speakText: function(text) { console.log("Speaking:", text); },
+        playSystemAudio: function(sound) { console.log("Playing Sound:", sound); },
+        saveState: function(state) { console.log("State Saved:", state); },
+        loadState: function(callback) { callback("{}"); }
+      };
+    </script>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
