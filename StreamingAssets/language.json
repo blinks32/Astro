@@ -92,8 +92,12 @@
         "desc_3": "Unlock them using the computer device by your left. Goodluck! Explorer. ",
         "desc_4": "You have a proton orb. Put it in the atom machine on the right.",
         "desc_5": "Well Done! You possess a neutron orb. You are quite skilled at this.",
-        "desc_6": "You possess an electron orb. Superb!"
+        "desc_6": "You possess an electron orb. Superb!",
 
+        "readyToPlay": "Ready to Play?",
+        "greatJob": "Great Job!",
+        "onePlusOne": "1 + 1 = 2",
+        "pressContinue": "Press Continue"
     }
 }
 
